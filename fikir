@@ -16,16 +16,20 @@ topluma zamandan tasarruf etme imkanı sunmayı hedefliyor.
 
 ----------------------------------------
 
-Durack Nasıl Çalışıyor?
+Durack arayüzünde neler bulunacak?
 -
-Durack iki arayüzden oluşuyor:Kullanıcı Arayüzü ve Şöfor arayüzü.
+Durack iki arayüzden oluşuyor:Yolcu Arayüzü ve Şöfor arayüzü.
 
-Kullanıcı arayüzünde üzerinde dolmuş ve şehir içi minibüslerin yerini belirten işaretler bulunan  bir harita,
+Yolcu arayüzünde üzerinde dolmuş ve şehir içi minibüslerin yerini belirten işaretler bulunan  bir harita,
 yukarıdan aşağı kaydırdığınızda ortaya çıkan güzergah veya plakaya göre arama yapabilen bir arama motoru,
 aşığıdan yukarıdan kaydırdığınızda ortaya çıkan ve seçtiğiniz dolmuşun güzergah vb. bilgilerini gösteren ve 
 dolmuş veya minibüs şöforünün sizi belirlediğiniz durakta alması için bir buton ,
 sağa kaydırdığınızda çıkan ve beklediğiniz dolmuşun bilgilerini ve anlık konumunu göstertebilen ayrıca 
-durmak istediğiniz durağı seçip şöfore gönderebildiğiniz bir sayfa,
+durmak istediğiniz durağı seçip şöfore gönderebildiğiniz bir sayfa bulunuyor.
+
+
+Şöfor arayüzünde üzerinde yolcu arayüzünden gelen binme ve inme istekleri ile gelen durakların konumları ve 
+diğer dolmuşların konumu bulunan bir harita ve minimal bir yol bilgisayarı sistemi bulunacak.
 
 
 -
